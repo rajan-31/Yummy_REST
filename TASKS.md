@@ -53,3 +53,9 @@ Dont forget to make git commits 😊.
    There is no frontend session on saturday, but complete this task by the weekend
 
 *IMG-20241113-WA0001.jpg*
+Practice Time
+
+1. Create Product Entity (id, name, price) and map it to MySQL table
+2. Use JpaRepository to perform all CRUD operations
+3. Create a query method to fetch the top 2 products whose price falls in the range from 15 to 30 (Order by price)
+   Use @Query annotation
